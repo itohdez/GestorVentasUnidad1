@@ -8,6 +8,7 @@ Prototipo de aplicación de consola que actúa como un Gestor de Ventas e Invent
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio.
+   `git clone https://github.com/itohdez/GestorVentasUnidad1.git`
 2. Abrir una terminal en la carpeta raíz del proyecto.
 3. Ejecutar el siguiente comando:
    `dotnet run`
